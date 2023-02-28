@@ -2,6 +2,7 @@
 
 Simple script tic tac toe game for 2 players.
 Game to be launched in command line. Make sure that python is installed on your PC!
+If no check this link: https://www.python.org/downloads/
 
 
 ![Screenshot from 2022-08-22 21-36-56](https://user-images.githubusercontent.com/39744176/186004305-71bd7b4b-d1ef-4438-a4da-e4ee1bff3b0b.png)
